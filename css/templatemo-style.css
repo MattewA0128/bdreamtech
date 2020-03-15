@@ -242,7 +242,8 @@ header .social-icon li a
 	}
 .element {
 	height: 60px;
-	font-size: 16px;
+	font-size: 20px;
+	text-shadow: 1px 1px grey;
 }
 /* end home */
 
@@ -594,3 +595,8 @@ header .social-icon li a
 
 }
 /* end 360 media quires */
+
+.media-object img{
+	width:62px;
+	margin-right:10px;
+}
